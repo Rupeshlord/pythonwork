@@ -1,7 +1,7 @@
 '''
 Created on 14-Apr-2020
 
-@author: navbharti
+@author: rupesh
 '''
 class Node(object):
     '''
